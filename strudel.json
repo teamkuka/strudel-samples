@@ -1,4 +1,5 @@
 {
   "_base": "https://raw.githubusercontent.com/teamkuka/strudel-samples/main/",
   "hard_refresh": ["hard_refresh/prechorus.wav", "hard_refresh/verse1.wav", "hard_refresh/verse2.wav"],
+    "heartbeat": ["heartbeat/heartbeat1.wav", "heartbeat/heartbeat2.wav"]
 }
